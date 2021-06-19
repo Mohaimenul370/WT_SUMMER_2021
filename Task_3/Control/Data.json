@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Md Mohaimenul",
+        "email": "mahadihasan1603@gmail.com",
+        "password": "kdjfdj",
+        "comment": "This file is only for testing ",
+        "gender": "Male",
+        "hobby": ",Singing,Reading",
+        "file_path": "File\/IMG_20210514_180344_Bokeh - Copy.jpg"
+    },
+    {
+        "name": "Md Mohaimenul",
+        "email": "mahadihasan1603@gmail.com",
+        "password": "hdkidmf",
+        "comment": "rbverbreberdbrefbre",
+        "gender": "Male",
+        "hobby": ",Singing",
+        "file_path": "FileIMG_20210105_154229.jpg"
+    },
+    {
+        "name": "Coding is Love",
+        "email": "19-39845-1@student.aiub.edu",
+        "password": "12dddd90",
+        "comment": "testing",
+        "gender": "Male",
+        "hobby": ",Singing,Reading",
+        "file_path": "File\/16238563267974671369532377869435.jpg"
+    },
+    {
+        "Name": "Coding School",
+        "Email": "19-39845-1@student.aiub.edu",
+        "Password": "1234567890",
+        "Comment": "testing",
+        "Gender": "Male",
+        "Hobby": ",Singing,Reading",
+        "File_Path": "File\/16238563267974671369532377869435.jpg"
+    },
+    {
+        "Name": "Hamid Uddin",
+        "Email": "mahadihasan1603@gmail.com",
+        "Password": "gfdgbvdvbdgfbvdfvb",
+        "Comment": "gbdvdfvb fdvbfdbdfbfdbv ",
+        "Gender": "Male",
+        "Hobby": ",Singing",
+        "File_Path": "File\/190599950_1946954412147667_737924641776663172_n.jpg"
+    }
+]
